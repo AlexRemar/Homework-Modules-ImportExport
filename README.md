@@ -14,6 +14,9 @@
 ## Организуйте:
 
 Из модуля domain экспорт класса Character в качестве default'ного
+
 В модуле game импорт класса Character
+
 Экспорт из модуля game класса Game в качестве дефолтного, класса GameSavingData и функций readGameSaving и writeGameSaving
+
 В модуле app.js одним импортом импортируйте Game, GameSavingData и функции readGameSaving, writeGameSaving (их при импорте переименуйте в loadGame и saveGame соответственно)
